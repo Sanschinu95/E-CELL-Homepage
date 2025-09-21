@@ -422,7 +422,7 @@ const data1 = [
     "mail": "mailto:imshubhamomray@gmail.com"
   },
   {
-    "imgLink": "./team_images/Shreyansh Awasthi.webp",
+    "imgLink": "./team_images/S Awasthi.webp",
     "personName": "Shreyansh Awasthi",
     "personVertical": "Corporate Relations Lead",
     "linkedin": "#https://www.linkedin.com/in/shreyansh-awasthi-1545792b2",
