@@ -270,7 +270,7 @@ const data1 = [
 },
 
   {
-    "imgLink": "./team_images/Nachiket Bakshi.webp",
+    "imgLink": "./teams/team_images/Nachiket.jpg",
     "personName": "Nachiket Bakshi",
     "personVertical": "Joint Secretary",
     "linkedin": "https://www.linkedin.com/in/BakshiNachiket",
